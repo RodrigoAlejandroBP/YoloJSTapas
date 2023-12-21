@@ -1,5 +1,0 @@
-train: C:/Users/Admin/Desktop/python/YoloVinoTrainingModel/SaveImgLavel/train
-val: C:/Users/Admin/Desktop/python/YoloVinoTrainingModel/SaveImgLavel/val
-
-nc: 1
-names: ['tapa_botella']
